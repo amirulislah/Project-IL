@@ -1,4 +1,4 @@
-# Nineteen Hidro & Akuapnik Massive Project
+# Nineteen Hidro & Akuaponik Massive Project
 
 ## Didalam Repo ini menggunakan tech stack sebagai berikut:
 
