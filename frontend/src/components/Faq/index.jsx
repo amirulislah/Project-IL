@@ -3,19 +3,19 @@ import { FaAngleDown, FaAngleUp } from 'react-icons/fa';
 
 const frequentlyAskQuestion = [
     {
-        titlle: "Produk apa saja yang disediakan HIDROKUAPONIK??",
+        titlle: "Produk apa saja yang disediakan Hidroponik dan Akuaponik?",
         descripti:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "Hidroponik dan akuaponik menyediakan berbagai produk segar dan sehat seperti selada, bayam merah, bokcoy, dan seledri yang ditanam secara hidroponik, serta cabai merah dan bayam hijau dari sistem aquaponik. Selain sayuran, tersedia juga microgreens kaya nutrisi dan paket starter kit hidroponik untuk pemula. Semua produk bebas pestisida, ramah lingkungan, dan cocok untuk gaya hidup sehat.",
     },
     {
         titlle: "Berapa biaya untuk memulai sistem hidroponik atau akuaponik?",
         descripti:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "Biaya untuk memulai sistem hidroponik atau aquaponik bervariasi tergantung pada skala dan peralatan yang dibutuhkan. Untuk skala kecil, biaya bisa berkisar antara Rp 1.000.000 – Rp 5.000.000, sedangkan untuk skala menengah atau komersial bisa mencapai Rp 10.000.000 – Rp 50.000.000. Biaya ini mencakup peralatan dasar seperti wadah, pompa air, pipa, pupuk, dan sistem filtrasi (untuk aquaponik). Faktor seperti ukuran sistem, jenis tanaman atau ikan, dan teknologi otomatisasi akan mempengaruhi total biaya.",
     },
     {
-        titlle: "What is Lorem Ipsum?",
+        titlle: "Apakah platform ini cocok untuk jenis semua tanaman?",
         descripti:
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "Platform hidroponik dan aquaponik cocok untuk banyak jenis tanaman, tetapi tidak semua tanaman dapat tumbuh dengan baik di sistem ini. Tanaman yang cocok untuk kedua sistem ini umumnya adalah sayuran dan tanaman daun yang memiliki kebutuhan air dan nutrisi yang lebih rendah, seperti selada, bayam, bokcoy, dan tomat. Beberapa jenis tanaman seperti cabai, paprika, dan herbs (rempah-rempah) juga sangat cocok untuk hidroponik atau aquaponik.",
     },
 ];
 

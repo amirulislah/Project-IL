@@ -24,7 +24,7 @@ const Home = () => {
         <div className='justify-center mx-10 my-3'>
           <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight text-center my-5">Produk Hidroponik</h2>
           <p className='text-center mx-3'>
-            Hidup sehat dengan produk segar dan berkelanjutan dari sistem hidroponik dan aquaponik kami. Seledri, selada, ikan nila, dan gurame kami dibudidayakan secara ramah lingkungan, tanpa pestisida, dan kaya akan nutrisi.</p>
+            Hidup sehat dengan produk segar dan berkelanjutan dari sistem hidroponik dan aquaponik kami. Selada,Bayam Merah, Bokcoy dan Seledri gurame kami dibudidayakan secara ramah lingkungan, tanpa pestisida, dan kaya akan nutrisi.</p>
           <div className='flex'>
           {/* Product Content  */}
           {produk.map(item => (
@@ -35,7 +35,7 @@ const Home = () => {
       </section>
       <section>
       <div>
-          <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight text-center my-3">Produk Aquponik</h2>
+          <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight text-center my-3">Produk Akuaponik</h2>
       
         <Swiper
           // install Swiper modules
@@ -56,8 +56,8 @@ const Home = () => {
                   <div className="bg-indigo-50 rounded-2xl flex m-10">
                     <img src="/src/assets/foto1.jpg" alt="foto" className='w-96 rounded-l-2xl' />
                     <div className='p-10'>
-                      <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight my-3">Selada</h2>
-                      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi amet doloribus, voluptatibus quas adipisci saepe accusantium odit autem distinctio et id, repudiandae, dicta quia ullam hic sunt corrupti totam eius.</p>
+                      <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight my-3">Bayam</h2>
+                      <p>Keunggulan bayam yang ditanam dengan metode aquaponik antara lain adalah pertumbuhannya yang lebih cepat dan kandungan nutrisinya yang lebih kaya. Bayam aquaponik bebas dari pestisida dan bahan kimia, sehingga lebih aman untuk dikonsumsi. Selain itu, bayam ini memiliki tekstur yang lebih lembut dan rasa yang lebih segar dibandingkan dengan bayam yang ditanam secara konvensional.</p>
                     </div>
                   </div>
                 </SwiperSlide>
@@ -66,7 +66,7 @@ const Home = () => {
                     <img src="/src/assets/foto4.jpg" alt="foto" className='w-96 rounded-l-2xl' />
                     <div className='p-10'>
                       <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight my-3">Selada</h2>
-                      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi amet doloribus, voluptatibus quas adipisci saepe accusantium odit autem distinctio et id, repudiandae, dicta quia ullam hic sunt corrupti totam eius.</p>
+                      <p>Keunggulan selada yang ditanam dengan metode aquaponik antara lain adalah pertumbuhannya yang lebih cepat, kandungan nutrisinya yang lebih tinggi, dan bebas dari pestisida kimia. Selada aquaponik juga memiliki tekstur yang lebih renyah dan rasa yang lebih segar, menjadikannya favorit di pasar sayuran organik.</p>
                     </div>
                   </div>
                 </SwiperSlide>
@@ -74,8 +74,8 @@ const Home = () => {
                   <div className="bg-indigo-50 rounded-2xl flex m-10">
                     <img src="/src/assets/foto3.jpg" alt="foto" className='w-96 rounded-l-2xl' />
                     <div className='p-10'>
-                      <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight my-3">Selada</h2>
-                      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi amet doloribus, voluptatibus quas adipisci saepe accusantium odit autem distinctio et id, repudiandae, dicta quia ullam hic sunt corrupti totam eius.</p>
+                      <h2 className="text-2xl/7 font-bold text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight my-3">Cabai Merah</h2>
+                      <p>Cabai merah aquaponik menjadi solusi inovatif dalam dunia pertanian modern. Dengan memanfaatkan sistem aquaponik, petani dapat menanam cabai merah secara lebih efisien dan ramah lingkungan.</p>
                     </div>
                   </div>
                 </SwiperSlide>
