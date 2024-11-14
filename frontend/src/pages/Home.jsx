@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 import 'swiper/css';
@@ -108,3 +109,16 @@ const Home = () => {
 }
 
 export default Home;
+=======
+function Home() {
+  return (
+    <section>
+      <div>
+        <h1 className="font-bold justify-center flex p-5">Section Home</h1>
+      </div>
+    </section>
+  );
+}
+
+export default Home;
+>>>>>>> a8edd5b44ffd5af83d70e9aab29a9b3938ed05cb

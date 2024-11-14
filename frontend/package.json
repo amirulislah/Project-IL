@@ -13,7 +13,11 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.3.0",
+<<<<<<< HEAD
     "swiper": "^11.1.14"
+=======
+    "react-router-dom": "^6.27.0"
+>>>>>>> a8edd5b44ffd5af83d70e9aab29a9b3938ed05cb
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",

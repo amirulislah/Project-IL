@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="bg-white shadow-md">
       <div className="container mx-auto flex justify-between items-center py-4">
         {/* Logo Section */}
-        <div className="flex items-center space-x-2 p-">
+        <div className="flex items-center space-x-2 p-3">
           <img
             src="/src/assets/nav_logo.png"
             alt="Hidroakuaponik"
@@ -18,7 +18,7 @@ function Navbar() {
         </div>
 
         {/* Menu Items */}
-        <div className="hidden md:flex space-x-9 p-3" >
+        <div className="hidden md:flex space-x-9 p-3">
           <a href="#" className="text-red-600 font-medium hover:underline">
             Beranda
           </a>

@@ -5,7 +5,7 @@
 - React
 - Vite
 - JavaScript
-- TailwindCSS (Opsional)
+- TailwindCSS
 
 # Cara Menggunakan GIT dengan Baik dan Benar
 
