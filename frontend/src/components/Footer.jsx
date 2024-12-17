@@ -2,21 +2,18 @@ import React from 'react'
 import { FaFacebook, FaInstagram, FaTwitter,  } from "react-icons/fa"
 const Footer = () => {
     return (
-        <footer className='bg-green-800 px-4 md:px-16 lg:px-28 py-6'>
+        <footer className='bg-slate-900 px-4 md:px-16 lg:px-28 my-1 py-6'>
             <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
                 <div>
                     <h2 className='text-lg font-bold mb-4 text-white'>
                     HidroAkuaponik
                     </h2>
-                    
                 </div>
                 <div>
                     <h2 className='text-lg font-bold mb-4 text-white'>Link</h2>
                     <ul>
                         <li><a href="" className='hover:underline text-gray-300'>Beranda</a></li>
-                        <li><a href="" className='hover:underline text-gray-300'>Produk</a></li>
-                        <li><a href="" className='hover:underline text-gray-300'>Solusi</a></li>
-                        <li><a href="" className='hover:underline text-gray-300'>Pertanyaan</a></li>
+                        <li><a href="" className='hover:underline text-gray-300'>Artikel</a></li>
                         <li><a href="" className='hover:underline text-gray-300'>Tentang Kami</a></li>
                     </ul>
                 </div>
